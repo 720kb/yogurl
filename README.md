@@ -17,7 +17,7 @@
 <a href="//yogurl.io">
 <img src="https://img.shields.io/website-up-down-blue-grey/http/shields.io.svg?maxAge=2592000"/>
 </a>
-<a href="https://gitter.im/720kb/yogurl/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank">
+<a href="https://gitter.im/720kb/yogurl" target="_blank">
 <img src="https://img.shields.io/gitter/room/yogurl/yogurl.js.svg"/>
 </a>
 </p>
