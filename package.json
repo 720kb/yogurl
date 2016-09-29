@@ -1,0 +1,36 @@
+{
+  "name": "yogurl",
+  "version": "1.0.0",
+  "description": "Easy urls for your files and code, on the fly!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/720kb/yogurl.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "yogurl": "./bin/yogurl.js"
+  },
+  "keywords": [
+    "yogurl",
+    "source",
+    "file",
+    "url",
+    "json",
+    "scss",
+    "css",
+    "js",
+    "code",
+    "src",
+    "cdn",
+    "host",
+    "upload"
+  ],
+  "author": "720kb <720kb.net>",
+  "license": "MIT",
+  "homepage": "http://yogurl.io",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "ora": "^0.3.0",
+    "request": "^2.75.0"
+  }
+}
