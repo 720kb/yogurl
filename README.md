@@ -38,7 +38,7 @@ $ yogurl <source> [ext]
 
 ```source```: A valid file path or code string
 
-```ext```: A valid [extension](#available-output-file-extensions) available
+```ext```: A valid output [extension](#available-output-file-extensions) available
 
 ####Yogurlify a file
 
