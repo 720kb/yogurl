@@ -78,7 +78,7 @@ const Yogurl = require('yogurl');
 Yogurl.upload('/path/to/file.json', 'json').then((data) => {
   //file is ready
   console.log(data, '');
-  console.log('File is ready at: ${data.data}');
+  console.log(`File is ready at: ${data.data}`);
 
 }).catch((err) => {
   //error

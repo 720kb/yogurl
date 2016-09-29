@@ -1,5 +1,6 @@
-
+/*globals module require*/
 'use strict';
 
-var yogurl = require('./bin/yogurl.js');
+const yogurl = require('./bin/yogurl.js');
+
 module.exports = yogurl;

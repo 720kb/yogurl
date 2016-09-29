@@ -1,5 +1,7 @@
 #!/usr/bin/env node
-'use strict'
+/*globals module process Buffer console require*/
+
+'use strict';
 
 var isCLI
   , loading;
@@ -12,7 +14,7 @@ const cli = require('commander')
   , config = require('./../config/config.json')
   , packageJSON = require('./../package.json')
   , defaultLoadingMessage = 'Yogurl is running ...'
-  , progress = (message) => {
+  , progress = message => {
     if (isCLI) {
       loading = ora(message || defaultLoadingMessage);
       loading.color = 'green';
@@ -100,7 +102,7 @@ const cli = require('commander')
             'code': source.toString(),
             'ext': extTrimmed
           }
-        }, (error, response, body) => {
+        }, (error, response) => {
 
           if (!response || error) {
             reject('Oh not now! Yogurl server is having bad times, let\'s retry later.');
@@ -119,26 +121,25 @@ const cli = require('commander')
       }, config.timebetweenWsCalls);
     });
   }
-  , getFileContent = (source) => {
+  , getFileContent = source => {
 
     return fs.readFileSync(source).toString();
   }
-  , getFileExt = (source) => {
+  , getFileExt = source => {
 
     return path.extname(source);
   }
-  , isFile = (source) => {
+  , isFile = source => {
     try {
 
       if (fs.readFileSync(source).toString()) {
         return true;
       }
-    }
-    catch (e) {
+    } catch (e) {
       return false;
     }
   }
-  , isAcceptedExt = (ext) => {
+  , isAcceptedExt = ext => {
 
     if (config.acceptedFileExts.indexOf(ext) !== -1) {
       return true;
@@ -148,7 +149,6 @@ const cli = require('commander')
     return new Promise((resolve, reject) => {
 
       let sourceType
-        , sourceExt
         , finalSource
         , finalSourceExt;
 
@@ -217,11 +217,11 @@ const cli = require('commander')
   }
   , exportUpload = (inputSource, inputExt) => {
     return new Promise((resolve, reject) => {
-      init(inputSource, inputExt).then((data) => {
+      init(inputSource, inputExt).then(data => {
         return upload(data.source, data.ext);
-      }).then((result) => {
+      }).then(result => {
         resolve(result);
-      }).catch((err) => {
+      }).catch(err => {
         reject(err);
       });
     });
@@ -236,20 +236,18 @@ cli
     progress();
     //empty ext is given as [Object] need to fix this dirtyfix:
     if (ext &&
-      (typeof ext !== 'string' &&
-      typeof ext !== 'String')) {
+      (typeof ext !== 'string')) {
       ext = undefined;
     }
 
-    init(source, ext).then((data) => {
+    init(source, ext).then(data => {
 
-     upload(data.source, data.ext).then((result) => {
-
-       progressStop(result.message, 'success', result.data);
-     }).catch((err) => {
-       progressStop(err, 'fail');
-     });
-    }).catch((err) => {
+      upload(data.source, data.ext).then(result => {
+        progressStop(result.message, 'success', result.data);
+      }).catch(err => {
+        progressStop(err, 'fail');
+      });
+    }).catch(err => {
       progressStop(err, 'fail');
     });
   })
