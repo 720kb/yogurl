@@ -18,7 +18,7 @@
 
 Yogurl is the simple command line tool for [Yogurl.io](https://yogurl.io)
 
-It can be used as a [CLI](#install-cli) or installed as [node dependency](#node-usage) if you prefer.
+It can be used as a [CLI](#install-cli) or installed as [Node dependency](#node-usage) if you prefer.
 
 ###Requirements
 
@@ -26,19 +26,19 @@ Node.js v5+
 
 ###Install CLI
 
-```html
+```bash
 npm install -g yogurl
 ```
 
 ###CLI Usage
 
-```
+```bash
 $ yogurl <source> [ext]
 ```
 
-```source```: A valid [file](Accepted extensions and file types) path or code string
+```source```: A valid file path or code string
 
-```ext```: A valid [extension](Accepted extensions and file types) available
+```ext```: A valid [extension](#available-output-file-extensions) available
 
 ####Yogurlify a file
 
