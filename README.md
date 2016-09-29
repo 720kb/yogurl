@@ -127,4 +127,4 @@ Contribute by forking, opening issues, pull requests and whatever.
 
 ###License
 
-[MIT](http://github.com/720kb/yogurl/#license.md)
+[MIT](http://github.com/720kb/yogurl/blob/master/LICENSE.md)
