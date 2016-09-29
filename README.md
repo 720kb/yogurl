@@ -128,7 +128,7 @@ Please don't spam it and use it with moderation, Yogurl is your friend.
 
 ###Contact Yogurl
 
-Feel free to open an issue or contact us on [twitter](http://twitter.com/720kb_)
+Feel free to open an issue or contact us on [twitter](http://twitter.com/720kb_) or come chat on [Gitter](https://gitter.im/720kb/yogurl/)
 
 ###Contributing
 
