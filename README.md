@@ -7,8 +7,15 @@
 
 </br>
 <p align="center" style="text-align:center">
+
+<a href="https://www.npmjs.com/package/yogurl" target="_blank">
+<img src="https://img.shields.io/npm/v/yogurl.svg"/>
+</a>
+<a href="http://github.com/720kb/yogurl/blob/master/LICENSE.md" target="_blank">
+<img src="https://img.shields.io/dub/l/vibe-d.svg"/>
+</a>
 <a href="https://gitter.im/720kb/yogurl/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank">
-<img src="https://badges.gitter.im/Join%20Chat.svg"/>
+<img src="https://img.shields.io/gitter/room/yogurl/yogurl.js.svg"/>
 </a>
 </p>
 
