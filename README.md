@@ -15,7 +15,7 @@
 
 Yogurl is the simple command line tool for [Yogurl.io](https://yogurl.io)
 
-It can be used as a [CLI](#install-cli) or installed as [node dependencies](#node-usage) if you prefer.
+It can be used as a [CLI](#install-cli) or installed as [node dependency](#node-usage) if you prefer.
 
 ###Requirements
 
@@ -64,8 +64,8 @@ const Yogurl = require('yogurl');
 
 Yogurl.upload('/path/to/file.json', 'json').then((data) => {
   //file is ready
-  console.log(data);
-  console.log('File is ready at:', data.data);
+  console.log(data, '');
+  console.log('File is ready at: ${data.data}');
 
 }).catch((err) => {
   //error
@@ -80,7 +80,7 @@ const Yogurl = require('yogurl');
 
 Yogurl.upload("var x = 'yogurlify a javascript var';", 'js').then((data) => {
   //file is ready
-  console.log(data);
+  console.log(data, '');
   console.log(`File is ready at: ${data.data}`);
 
 }).catch((err) => {
