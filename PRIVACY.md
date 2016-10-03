@@ -21,3 +21,7 @@ You should consult the respective privacy policies of these third-party ad serve
 Yogurl.io's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+####Changes to this document/informative
+
+We deserves the right to edit and perform changes to this informative at any time during the day, you please should read this document very often to be updated with our informative. 
