@@ -26,4 +26,7 @@ Yogurl.io and the Yogurl.io creators aren't in charge of and have/has no respons
 Yogurl.io and Yogurl.io creators are not responsible, in any way, for any kind of unlawful, unethical, illegal or deprecative act/s performed or trasmitted by the users of Yogurl.io and third parties people, through the Yogurl.io service or services offered by Yogurl.io.
 The person or entity who caused any kind of damage to third parties of any kind (through the services offered by Yogurl.io) will respond directly to the appropriate authorities.
 
+
+####Changes to this document/informative
+
 We deserves the right to edit and perform changes to this informative at any time during the day, you please should read this document very often to be updated with our informative. 
