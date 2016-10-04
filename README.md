@@ -56,6 +56,12 @@ $ yogurl <source> [ext]
 $ yogurl path/to/file.js
 ```
 
+####Yogurlify a file to new extension
+
+```bash
+$ yogurl path/to/file.txt js
+```
+
 ####Yogurlify a code string
 
 ```bash
