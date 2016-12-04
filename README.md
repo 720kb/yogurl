@@ -140,8 +140,8 @@ Feel free to open an issue or contact us on [twitter](http://twitter.com/720kb_)
 
 ###Contributing
 
-We will be much grateful if you help us to grow and improve the project.
-Contribute by forking, opening issues, pull requests and whatever.
+We are much grateful if you help us to grow and improve the project.
+Contribute by forking, opening issues, pull requests or whatever.
 
 ###License
 
