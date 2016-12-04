@@ -119,7 +119,7 @@ Yogurl.upload("var x = 'yogurlify a javascript var';", 'js').then((data) => {
 
 `.json`
 
-.... many other to come!
+.... and others to come!
 
 ###Available Input File Extensions
 
