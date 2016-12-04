@@ -127,10 +127,10 @@ ANY (supposed)
 
 ###Why Yogurl?
 
-Yogurl is born to help devs to get an url of their local sources as quick as possible.
+Yogurl has been developed with one simple goal: urlify code and files as quick as possible.
 It is built for **development purposes**, it's not really recommended to use it in a production environment, **yogurl urls gets deleted after some time, so that you don't have to take care about them**.
 
-Since Yogurl is not backed by any sponsor or funds of any kind: we apologize for any trouble/problem/issue you could encounter.
+Since Yogurl is not backed by any sponsor or funds of any kind: we apologize for any trouble/problem/issue that could eventually happen.
 
 Please don't spam it and use it with moderation, Yogurl is your friend.
 
