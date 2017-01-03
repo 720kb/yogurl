@@ -2,7 +2,7 @@
   <a href="http://yogurl.io">
     <img width="250" src="http://i.imgur.com/i2aenJ7.png">
   </a>
-  <p align="center">Easy urls for your files and code.</p>
+  <p align="center">Serve your code over HTTP in one command.</p>
 </p>
 
 </br>
