@@ -1,4 +1,4 @@
-###Disclaimer / Terms of Use
+## Disclaimer / Terms of Use
 
 The General Disclaimer Conditions and Terms of Use indicated below regulate access to the site yogurl.io and the use of all the services and tools offered through the site and the GitHub official account internet page (https://github.com/720kb/yogurl).
 
@@ -15,7 +15,7 @@ With "content" we mean: any kind of data or information uploaded on Yogurl.io or
 
 The only responsible of the uploaded or transmitted content (through Yogurl.io website and services offered by Yogurl.io) is the same person and/or entity who uploaded or shared it through the services offered;
 
-Yogurl.io and the Yogurl.io creators aren't in charge of any and have/has no responsability for any kind of:
+Yogurl.io creators and service providers aren't in charge of any and have/has no responsability for any kind of:
 
 - Unlawful or illegal use of the services offered by Yogurl.io by third parties and users of the service.
 - Widespread violence by third parties and users of the service through the services offered by Yogurl.io
@@ -23,8 +23,8 @@ Yogurl.io and the Yogurl.io creators aren't in charge of any and have/has no res
 - Act against ethical and / or human moral, ethic, and peoples and cultures of the world
 - Malicious content, capable of causing damage to third parties, promoted or distributed by third parties or the user of the service through Yogurl.io and the services offered by Yogurl.io
 
-Yogurl.io and Yogurl.io and creators are not responsible, in any way or reason, for any kind of unlawful, unethical, illegal or deprecative act/s performed or trasmitted by the user through the Yogurl.io service or services offered by Yogurl.io.
-The person or entity who caused any kind of damage to third parties of any kind (through the services offered by Yogurl.io) will respond directly to the appropriate authorities. 
+Yogurl.io creators and service providers are not responsible in any way or for any reason, for any kind of unlawful, unethical, illegal and/or deprecative act performed or trasmitted or shared by the users through the Yogurl.io service or services offered by Yogurl.io.
+The person or the entity who caused any kind of damage to third parties and third entities through the services offered by Yogurl.io will respond directly to the appropriate authorities.
 
 
 ####Changes to this document/informative
