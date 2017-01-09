@@ -1,6 +1,6 @@
 {
   "wsUrl": "http://yogurl.io/up",
-  "timebetweenWsCalls": "1000",
+  "timebetweenWsCalls": "200",
   "fileKbSizeLimit": 150000,
   "linkUri": "http://yogurl.io/f/",
   "acceptedFileExts": ["js", "css", "map", "json", "scss"]
