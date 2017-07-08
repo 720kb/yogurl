@@ -2,7 +2,7 @@
   <a href="http://yogurl.io">
     <img width="250" src="http://i.imgur.com/i2aenJ7.png">
   </a>
-  <p align="center">Serve your code over HTTP in one command.</p>
+  <p align="center">Serve your files and code over HTTP in one command.</p>
 </p>
 
 </br>
@@ -28,7 +28,7 @@
 
 Yogurl is the simple command line tool for [Yogurl.io](https://yogurl.io)
 
-It can be used as a [CLI](#install-cli) or installed as [Node dependency](#node-usage) if you prefer.
+It can be used as a [CLI](#install-cli) command or as a [Node dependency](#node-usage) if you prefer.
 
 ### Requirements
 
