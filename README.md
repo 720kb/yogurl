@@ -28,13 +28,13 @@
 
 Yogurl is the simple command line tool for [Yogurl.io](https://yogurl.io)
 
-It can be used as a [CLI](#install-cli) command or as a [Node dependency](#node-usage) if you prefer.
+It can be used as a [CLI](#cli-installation) command or as a [Node dependency](#node-usage) if you prefer.
 
 ### Requirements
 
 Node.js v5+
 
-### Install CLI
+### CLI Installation
 
 ```bash
 npm install -g yogurl
