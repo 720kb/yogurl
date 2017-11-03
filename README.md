@@ -26,7 +26,7 @@
 
 ### What's Yogurl?
 
-Yogurl is the simple command line tool for [Yogurl.io](https://yogurl.io)
+Yogurl is the simple command line tool for [Yogurl.io](http://yogurl.io)
 
 It can be used as a [CLI](#cli-installation) command or as a [Node dependency](#node-usage) if you prefer.
 
